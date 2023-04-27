@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rus1"
+        android:title="@string/selectRus" />
+
+    <item
+        android:id="@+id/eng1"
+        android:title="@string/selectEng" />
+
+    <item
+        android:id="@+id/germ1"
+        android:title="@string/selectGerman" />
+
+    <item
+        android:id="@+id/ukr1"
+        android:title="@string/selectUkr" />
+</menu>

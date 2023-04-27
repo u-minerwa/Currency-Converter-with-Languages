@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="convert_from">Конвертувати з</string>
+    <string name="convert_to">Перетворити на</string>
+    <string name="select_country">Виберіть країну</string>
+    <string name="amount_to_convert">Сума для конвертації</string>
+    <string name="convertion_rate">Курс конвертації</string>
+    <string name="convert">Перетворивши</string>
+    <string name="search">пошук...</string>
+    <string name="selectRus">Виберіть російську мову</string>
+    <string name="settings">Настройка</string>
+    <string name="selectEng">Виберіть англійську мову</string>
+    <string name="selectGerman">Виберіть німецьку мову</string>
+    <string name="selectUkr">Виберіть українську мову</string>
+</resources>
+
