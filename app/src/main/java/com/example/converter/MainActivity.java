@@ -242,7 +242,7 @@ public class MainActivity extends AppCompatActivity {
     public String getConversionRate(String convFrom, String convTo, Double amountToConv){
         RequestQueue queue = Volley.newRequestQueue(this);
         //https://free.currconv.com/api/v7/convert?q=USD_PHP&compact=ultra&apiKey=92b656813655677d554b
-        String url = "https://free.currconv.com/api/v7/convert?q="+convFrom+"_"+convTo+"&compact=ultra&apiKey=92b656813655677d554b";
+        String url = "https://free.currconv.com/api/v7/convert?q="+convFrom+"_"+convTo+"&compact=ultra&apiKey=f406d31da7ff4668daff";
         //String url = "https://api.apilayer.com/currency_data/convert?to="+convTo+"&from="+convFrom+"&amount="+amountToConv;
         StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
             @Override
